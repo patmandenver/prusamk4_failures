@@ -19,5 +19,6 @@ I think that is why it failed or it may also have failed due to using the input 
 
 # Resolution
 
+Once I added Brims printed just fine with Input Shaper
 
 
